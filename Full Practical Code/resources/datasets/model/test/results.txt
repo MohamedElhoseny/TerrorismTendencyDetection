@@ -1,0 +1,88 @@
+Tweet : Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone
+Features Scores : w = 0.5625690312118736, s = 0.6998894766613959, t = 0.9010180545613539
+Evaluation equation Result = 0.6984338495790983
+Classified as : negative
+Classified Details 
+------------------
+	Negative : 0.9999477588309568
+	Positive : 5.2135733333032084E-5
+	Neutral  : 1.0543571020322246E-7
+________________________________________________________________________
+________________________________________________________________________
+Tweet : playing with Java and the Twitter API
+Features Scores : w = 0.48927660259326566, s = 0.5603505317971557, t = 0.7067483344079165
+Evaluation equation Result = 0.5722866044386334
+Classified as : positive
+Classified Details 
+------------------
+	Negative : 5.3622757373004784E-8
+	Positive : 0.9999407861186269
+	Neutral  : 5.916025861576554E-5
+________________________________________________________________________
+________________________________________________________________________
+Tweet : Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus
+Features Scores : w = 0.5899977950064845, s = 0.9060358734130386, t = 0.8930760597427192
+Evaluation equation Result = 0.7599307940289934
+Classified as : negative
+Classified Details 
+------------------
+	Negative : 0.9999998499999776
+	Positive : 5.000000747367832E-8
+	Neutral  : 1.0000001494735789E-7
+________________________________________________________________________
+________________________________________________________________________
+Tweet : Beginning JavaScript and CSS Development with jQuery #javascript #css #jquery http://bit.ly/TO3e5
+Features Scores : w = 0.44793951372527424, s = 0.4898443484533906, t = 0.7634032634032532
+Evaluation equation Result = 0.553054847310697
+Classified as : positive
+Classified Details 
+------------------
+	Negative : 8.458035963407446E-10
+	Positive : 0.9999998981393033
+	Neutral  : 1.0101489308603206E-7
+________________________________________________________________________
+________________________________________________________________________
+Tweet : ISIS demanding 30 Million Dollars to free Christian Hostages. #DemandForAction #stopisis
+Features Scores : w = 0.6738616015238791, s = 0.3633627873055259, t = 0.7891804644381903
+Evaluation equation Result = 0.6308325568435842
+Classified as : neutral
+Classified Details 
+------------------
+	Negative : 2.5010965436855407E-14
+	Positive : 2.9706962044368975E-14
+	Neutral  : 0.9999999999999453
+________________________________________________________________________
+________________________________________________________________________
+Tweet : RT @young_assyrians: We have lost another warrior today. RIP Ashur Namrud #FreeAssyria http://t.co/E8HhGsvN77
+Features Scores : w = 0.49110630254289006, s = 0.31753302864178146, t = 0.8108403623867476
+Evaluation equation Result = 0.5436332020207701
+Classified as : positive
+Classified Details 
+------------------
+	Negative : 4.582049406971519E-12
+	Positive : 0.9999998999899196
+	Neutral  : 1.0000549837626857E-7
+________________________________________________________________________
+________________________________________________________________________
+Tweet : RT @SaleemMehsud: #ISIS Khurasan stones to death a married man on charges of adultery in #Nangrahar #Afghanistan
+Features Scores : w = 0.5857097535357273, s = 0.26496301866477595, t = 0.9150163047800767
+Evaluation equation Result = 0.6043150351912943
+Classified as : neutral
+Classified Details 
+------------------
+	Negative : 4.8205316838414314E-4
+	Positive : 0.033667087682590524
+	Neutral  : 0.9658508591490256
+________________________________________________________________________
+________________________________________________________________________
+Tweet : RT @news1_breakiing: Al #Qaeda militants and #ISIS are fighting alongside the #NATO-allied #Turkish forces and killing civilians
+Features Scores : w = 0.7134531876893523, s = 0.748099856122094, t = 0.9252009142520009
+Evaluation equation Result = 0.7856391727663323
+Classified as : negative
+Classified Details 
+------------------
+	Negative : 0.9999998499999776
+	Positive : 5.000000747367832E-8
+	Neutral  : 1.0000001494735789E-7
+________________________________________________________________________
+________________________________________________________________________

@@ -1,0 +1,700 @@
+Tweet : Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone
+Word weight = 0.10262091053083273
+Sentiment = 0.6998894766613959
+Topic model = 0.01115947764147157
+Evaluation EQ = 0.6998894766613959
+Evaluated as : neutral
+===================================
+Tweet : playing with Java and the Twitter API
+Word weight = 0.0
+Sentiment = 0.5603505317971557
+Topic model = 0.21489437880411336
+Evaluation EQ = 0.5603505317971557
+Evaluated as : neutral
+===================================
+Tweet : Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus
+Word weight = 0.0
+Sentiment = 0.9060358734130386
+Topic model = 0.011950929956469573
+Evaluation EQ = 0.9060358734130386
+Evaluated as : neutral
+===================================
+Tweet : Beginning JavaScript and CSS Development with jQuery #javascript #css #jquery http://bit.ly/TO3e5
+Word weight = 0.0
+Sentiment = 0.4898443484533906
+Topic model = 0.04721804511277922
+Evaluation EQ = 0.4898443484533906
+Evaluated as : neutral
+===================================
+Tweet : Every group needs the one person who is tied to their computer
+Word weight = 0.0
+Sentiment = 0.1972211418119346
+Topic model = 0.049735449735441944
+Evaluation EQ = 0.1972211418119346
+Evaluated as : neutral
+===================================
+Tweet : going out is it me or is twitter really dull today  laugh out loud football tournament i think
+Word weight = 0.0
+Sentiment = 0.39569018313952303
+Topic model = 0.06974101921469376
+Evaluation EQ = 0.39569018313952303
+Evaluated as : neutral
+===================================
+Tweet : Hi there do you have a vegan restaurant in St  Augustine best regards from Austria
+Word weight = 0.0
+Sentiment = 0.0355865298938422
+Topic model = 0.04120300751879455
+Evaluation EQ = 0.0355865298938422
+Evaluated as : neutral
+===================================
+Tweet : ISIS demanding 30 Million Dollars to free Christian Hostages. #DemandForAction #stopisis
+Word weight = 0.5548440456420753
+Sentiment = 0.3633627873055259
+Topic model = 0.5482706766916593
+Evaluation EQ = 1.3633627873055258
+Evaluated as : positive
+===================================
+Tweet : RT @SaleemMehsud: #ISIS Khurasan stones to death a married man on charges of adultery in #Nangrahar #Afghanistan
+Word weight = 0.4316429042791194
+Sentiment = 0.26496301866477595
+Topic model = 0.3890058479531608
+Evaluation EQ = 1.264963018664776
+Evaluated as : positive
+===================================
+Tweet : RT @news1_breakiing: Al #Qaeda militants and #ISIS are fighting alongside the #NATO-allied #Turkish forces and killing civilians
+Word weight = 0.579075294091838
+Sentiment = 0.748099856122094
+Topic model = 0.9204968944100199
+Evaluation EQ = 1.748099856122094
+Evaluated as : negative
+===================================
+Tweet : this video is old ( 2016) but interesting :#ISIS fighters are captured trying to flee battlefield in Syrian city… https://t.co/8oKekeI8K0
+Word weight = 0.45340488953871405
+Sentiment = 0.9327085343448276
+Topic model = 0.46307874950535355
+Evaluation EQ = 1.9327085343448276
+Evaluated as : negative
+===================================
+Tweet : Russia's ambassador to Turkey assassinated in Ankara #TerrorAttack #MuslimBrotherhood #Terrorism #Russia #Turkey  https://t.co/RJm6OlFwuS
+Word weight = 0.5573553548880426
+Sentiment = 0.9672769710614222
+Topic model = 0.839532163742582
+Evaluation EQ = 1.9672769710614222
+Evaluated as : negative
+===================================
+Tweet : RT @VivianBercovici: Our PM @JustinTrudeau and his handlers are oblivious to history and morality. It’s all about crass vote pandering
+Word weight = 0.3560936860216839
+Sentiment = 0.8046012098962692
+Topic model = 0.026201868307126466
+Evaluation EQ = 0.8046012098962692
+Evaluated as : neutral
+===================================
+Tweet : @AWingfieldSvcs @harpersbazaarus You made #isis look good https://t.co/So1IJUGYRK
+Word weight = 0.5833333333333334
+Sentiment = 0.6647239331174354
+Topic model = 0.3402076620121057
+Evaluation EQ = 1.6647239331174353
+Evaluated as : negative
+===================================
+Tweet : RT @danisnobunk: boy this bath bomb sure is weird https://t.co/FOBbhW5yER
+Word weight = 0.0
+Sentiment = 0.7680189719422765
+Topic model = 0.039153439153432446
+Evaluation EQ = 0.7680189719422765
+Evaluated as : neutral
+===================================
+Tweet : Italian police: lacking funds further 200 million euros required for counter-terrorism https://t.co/2gDVaXHSbl
+Word weight = 0.49953591836421096
+Sentiment = 0.93226578696915
+Topic model = 0.30030339005408463
+Evaluation EQ = 1.93226578696915
+Evaluated as : negative
+===================================
+Tweet : UK is working w/tech giants inc. @Facebook to remove hateful #Daesh propaganda from online #DefeatingDaesh https://t.co/mgnWSbUtz5
+Word weight = 0.4073948304615904
+Sentiment = 0.8972635468260068
+Topic model = 0.41047355230181637
+Evaluation EQ = 1.8972635468260068
+Evaluated as : negative
+===================================
+Tweet : RT @tribelaw: DonaldTrump suddenly turned US foreign policy against our (counter-ISIS partner) Quatar just weeks after its govt refused to…
+Word weight = 0.4371219364827349
+Sentiment = 0.7747454965654037
+Topic model = 0.2672156581931215
+Evaluation EQ = 1.7747454965654037
+Evaluated as : negative
+===================================
+Tweet : RT @AMike4761: SHARIA in #FRANCE:  Former French Presidential Candidate Le Pen Charged With Crime For Exposing ISIS.  The death of free spe…
+Word weight = 0.42949651339444395
+Sentiment = 0.7338832646964819
+Topic model = 0.4069172932331515
+Evaluation EQ = 1.733883264696482
+Evaluated as : negative
+===================================
+Tweet : Terrorism expert claims Al-Qaeda has appointed a new 'caretaker' leader http://ning.it/j1ulsb
+Word weight = 0.37976724899602465
+Sentiment = 0.9287425850367108
+Topic model = 0.3943525480367024
+Evaluation EQ = 1.9287425850367108
+Evaluated as : negative
+===================================
+Tweet : RT @KarimaBaloch: By aiding #Pakistan China is becoming part of Balochistan’s colonization. #China will lose the moral argument that what #…
+Word weight = 0.42676087414755376
+Sentiment = 0.8804038887957981
+Topic model = 0.14259332541880307
+Evaluation EQ = 0.8804038887957981
+Evaluated as : neutral
+===================================
+Tweet : @MichelleRempel Me too... unfortunately there is no separation of church and state in Islam. Islam is the religion… https://t.co/tepqUIHBA4
+Word weight = 0.6255536589879699
+Sentiment = 0.3313962446548477
+Topic model = 0.6595334490070417
+Evaluation EQ = 1.3313962446548477
+Evaluated as : positive
+===================================
+Tweet : #ICYMI good progress from @Facebook but there’s still more to do to tackle #Daesh propaganda online https://t.co/GrcNM82Tok
+Word weight = 0.4738846397080729
+Sentiment = 0.9248225836919561
+Topic model = 0.3429728166569624
+Evaluation EQ = 1.9248225836919561
+Evaluated as : negative
+===================================
+Tweet : RT @NYDailyNews: A teen who planned an ISIS-inspired vehicle attack on a Justin Bieber concert has been sentenced to 11 years in prison htt…
+Word weight = 0.37109380700741135
+Sentiment = 0.7899590837828356
+Topic model = 0.19080309469327109
+Evaluation EQ = 0.7899590837828356
+Evaluated as : neutral
+===================================
+Tweet : Terror attack foiled in Samaria https://t.co/igJsR9vDUA https://t.co/dh9YDUW7Sk
+Word weight = 0.6065298126060076
+Sentiment = 0.25219053977513345
+Topic model = 0.524812030075088
+Evaluation EQ = 1.2521905397751334
+Evaluated as : positive
+===================================
+Tweet : @jeannemariepics  I miss my boif already.give him my number email address home address SS# ring size and my avi
+Word weight = 0.0
+Sentiment = 0.7371694050893383
+Topic model = 0.012006205991168684
+Evaluation EQ = 0.7371694050893383
+Evaluated as : neutral
+===================================
+Tweet : @jeannemariepics Hi there! I'm good hanging out with the baby  and yourself
+Word weight = 0.0
+Sentiment = 0.651669387108203
+Topic model = 0.03272466881488801
+Evaluation EQ = 0.651669387108203
+Evaluated as : neutral
+===================================
+Tweet : @jeannemariepics of course i miss you! you never come transformers tonight! so sad 
+Word weight = 0.0
+Sentiment = 0.3890166568777517
+Topic model = 0.02589807852965179
+Evaluation EQ = 0.3890166568777517
+Evaluated as : neutral
+===================================
+Tweet : @jeannemariepics Wow lots to do this week! I just went back to work today I had the flu 
+Word weight = 0.0
+Sentiment = 0.7487156222327527
+Topic model = 0.014870509607348759
+Evaluation EQ = 0.7487156222327527
+Evaluated as : neutral
+===================================
+Tweet : @JEANNENA yeah The Beatles rock band is going to be sweet 
+Word weight = 0.0
+Sentiment = 0.6584705004321871
+Topic model = 0.022222222222217276
+Evaluation EQ = 0.6584705004321871
+Evaluated as : neutral
+===================================
+Tweet : @JeanneRose The Derby is big news in Canuck-land today! 
+Word weight = 0.10052660623428512
+Sentiment = 0.058763291471751605
+Topic model = 0.021553884711774746
+Evaluation EQ = 0.058763291471751605
+Evaluated as : neutral
+===================================
+Tweet : @jeannethinks I would love to see the sun again.  It has been raining here for 3 days now.
+Word weight = 0.0
+Sentiment = 0.6992173633467634
+Topic model = 0.04661654135337612
+Evaluation EQ = 0.6992173633467634
+Evaluated as : neutral
+===================================
+Tweet : I have a new look in store for everyone! Maybe you'll get to see it after summer or in between July! We'll see. Depending on how I feel 
+Word weight = 0.0
+Sentiment = 0.29924713290565935
+Topic model = 0.02018683071314205
+Evaluation EQ = 0.29924713290565935
+Evaluated as : neutral
+===================================
+Tweet : i have a new love: matt lanter of 90210. absolutely adore him ah swoon....  so hot and so sweet www.myspace.com/mattlanter is so cute! 
+Word weight = 0.0
+Sentiment = 0.7076509382930984
+Topic model = 0.014603174603171704
+Evaluation EQ = 0.7076509382930984
+Evaluated as : neutral
+===================================
+Tweet : i have a new phone its pretty and has pink on it 
+Word weight = 0.0
+Sentiment = 0.6336175266089762
+Topic model = 0.029860365198705212
+Evaluation EQ = 0.6336175266089762
+Evaluated as : neutral
+===================================
+Tweet : i have a new picture in myspace :&gt; just sharing 
+Word weight = 0.0
+Sentiment = 0.07508399132428069
+Topic model = 0.04421052631578687
+Evaluation EQ = 0.07508399132428069
+Evaluated as : neutral
+===================================
+Tweet : @lintably Careful you're beginning to sound like me  I'm guessing they're just being very careful what they say until they're 100% sure
+Word weight = 0.0
+Sentiment = 0.714777862004808
+Topic model = 0.021189336978806032
+Evaluation EQ = 0.714777862004808
+Evaluated as : neutral
+===================================
+Tweet : @lintably I am getting so sleepy but trying to b vigilant for Iranian friends!  hope I can rally soon! It's 12:11am here on west coast US
+Word weight = 0.27176638883011695
+Sentiment = 0.7100300267799047
+Topic model = 0.18513931888542062
+Evaluation EQ = 0.7100300267799047
+Evaluated as : neutral
+===================================
+Tweet : @Linteia good idea ! that sounds like a plan !  and about your finals; you can do it ! just stick to it !
+Word weight = 0.0
+Sentiment = 0.6573108320241379
+Topic model = 0.018546365914783106
+Evaluation EQ = 0.6573108320241379
+Evaluated as : neutral
+===================================
+Tweet : @Linteia me too !  i have a 6 page paper due tomorrow and i didn't even start it. woe is me
+Word weight = 0.0
+Sentiment = 0.9931509807162773
+Topic model = 0.016155774050507495
+Evaluation EQ = 0.9931509807162773
+Evaluated as : neutral
+===================================
+Tweet : I've really got to stop drinking 
+Word weight = 0.5773301797388146
+Sentiment = 0.4937487058593425
+Topic model = 0.2457142857142789
+Evaluation EQ = 1.4937487058593426
+Evaluated as : positive
+===================================
+Tweet : Morning all just eating my cheerios and drinking my tea going to go sit outside and enjoy the sun you should as well 
+Word weight = 0.0
+Sentiment = 0.7069745976482072
+Topic model = 0.015004177109437298
+Evaluation EQ = 0.7069745976482072
+Evaluated as : neutral
+===================================
+Tweet : Morning all just getting ready for nursery run then prepping for a meeting. Was working till 11.30 last night for it and still not ready
+Word weight = 0.11434901459149932
+Sentiment = 0.6640650995909474
+Topic model = 0.011159477641471578
+Evaluation EQ = 0.6640650995909474
+Evaluated as : neutral
+===================================
+Tweet : Morning all just woke up! It's strange my Mom didn't wake me up maybe she forgot it or she didn't wake up! Anyways I'm happy!!
+Word weight = 0.0
+Sentiment = 0.7114998725494173
+Topic model = 0.0200167084377578
+Evaluation EQ = 0.7114998725494173
+Evaluated as : neutral
+===================================
+Tweet : morning all loving the sunshine on this monday morning.. but not work
+Word weight = 0.0
+Sentiment = 0.2806644305182844
+Topic model = 0.015847310584149347
+Evaluation EQ = 0.2806644305182844
+Evaluated as : neutral
+===================================
+Tweet : @FoxNews Exclusive VIDEO:Hundreds of #Kurds Killed in #Turkey report from war zone https://t.co/OmBvCpA0i0 https://t.co/xDsa929rSg
+Word weight = 0.46472631625879934
+Sentiment = 0.9189680376185452
+Topic model = 0.6244822582772868
+Evaluation EQ = 1.9189680376185452
+Evaluated as : negative
+===================================
+Tweet : @ProjetoooHelp @Louis_Tomlinson Isis #iHeartAwards #BestSoloBreakout #LouisTomlinson
+Word weight = 0.5833333333333334
+Sentiment = 0.03246459203143709
+Topic model = 0.7333333333334388
+Evaluation EQ = 1.032464592031437
+Evaluated as : positive
+===================================
+Tweet : French nationals arrested in Pakistan en route to meet Al-Qaeda figure http://ning.it/gQ2FD0
+Word weight = 0.40395314118686965
+Sentiment = 0.38380597568214053
+Topic model = 0.4419578357658487
+Evaluation EQ = 1.3838059756821406
+Evaluated as : positive
+===================================
+Tweet : RT @qx0cvhjgfdy0b: Erdogan's regime recruited all former ISIS &amp; Al-Qaeeda terrorists to attack Kurds in Afrin
+Word weight = 0.49400283970146786
+Sentiment = 0.19175866763839983
+Topic model = 0.9331662489556011
+Evaluation EQ = 1.1917586676383998
+Evaluated as : positive
+===================================
+Tweet : New trailer for The Terror reminds you never to go sailing through ice https://t.co/dWtFxmrUY3 https://t.co/gVPWLHBUra
+Word weight = 0.5032227807480857
+Sentiment = 0.9286067333908775
+Topic model = 0.2464798359534653
+Evaluation EQ = 1.9286067333908776
+Evaluated as : negative
+===================================
+Tweet : @globaltimesnews Tibet and Taiwan are independent country. By the way why you people trade with them..?? Stop trade… https://t.co/rar77LGgT2
+Word weight = 0.46204677845413666
+Sentiment = 0.921869357642809
+Topic model = 0.07983291562237657
+Evaluation EQ = 0.921869357642809
+Evaluated as : neutral
+===================================
+Tweet : RT @StanM3: Hero Russian pilot yells 'This is for our guys' and blows himself up to avoid ISIS capture
+Word weight = 0.3152557872623506
+Sentiment = 0.7483596235124229
+Topic model = 0.2549795541485262
+Evaluation EQ = 0.7483596235124229
+Evaluated as : neutral
+===================================
+Tweet : @RT_com  video #ISIS attacks Syrian Kurdish settlements in #TalAbyad https://t.co/NUZKwGH3SK
+Word weight = 0.6331486266858017
+Sentiment = 0.9501968750581276
+Topic model = 0.8017351069981539
+Evaluation EQ = 1.9501968750581276
+Evaluated as : negative
+===================================
+Tweet : @A__Stout We have one too - and it’s NOT 126 years old! That’s why ISIS loves it here because it can recruit &amp; prea… https://t.co/owsIiYkIwu
+Word weight = 0.36747548778437467
+Sentiment = 0.856612956187703
+Topic model = 0.3791144527985791
+Evaluation EQ = 1.856612956187703
+Evaluated as : negative
+===================================
+Tweet : RT @danielbentley: From The Spectator: "Tories should imitate – not attack – Jeremy Corbyn’s land policy"
+Word weight = 0.3593312802488662
+Sentiment = 0.8392926547959654
+Topic model = 0.18025833815303643
+Evaluation EQ = 0.8392926547959654
+Evaluated as : neutral
+===================================
+Tweet : RT @BreakingNLive: MORE: At least three armed terrorists on the run in London.
+Word weight = 0.43668465750685975
+Sentiment = 0.8989841966453914
+Topic model = 0.4682261208576004
+Evaluation EQ = 1.8989841966453915
+Evaluated as : negative
+===================================
+Tweet : .@thedanieb imagines of the victims of #Assad's chemical weapons attack on civilians in #Idlib #WarCrimes #Russia… https://t.co/a65yk3jftO
+Word weight = 0.5850862451499458
+Sentiment = 0.3313962446548477
+Topic model = 0.8664307828393787
+Evaluation EQ = 1.3313962446548477
+Evaluated as : positive
+===================================
+Tweet : RT @TerrorismPolice: code:SEVERE #ActionCountersTerrorism
+Word weight = 0.2976111421169082
+Sentiment = 0.937114878290351
+Topic model = 0.0911278195488729
+Evaluation EQ = 0.937114878290351
+Evaluated as : neutral
+===================================
+Tweet : To date FBI determines #LasVegas shooter has no connection to #Daesh. #Amaq is the propaganda arm of terrorists https://t.co/fccxl6mUhO
+Word weight = 0.5202853756027647
+Sentiment = 0.5
+Topic model = 0.5157367101965565
+Evaluation EQ = 1.5
+Evaluated as : positive
+===================================
+Tweet : .@DefenceHQ A Royal Engineer instructor demonstrates sandbag construction techniques to Iraqi Security Forces… https://t.co/WHmmDc2bWS
+Word weight = 0.47688268065533884
+Sentiment = 0.934936955100917
+Topic model = 0.32106737431811544
+Evaluation EQ = 1.934936955100917
+Evaluated as : negative
+===================================
+Tweet : My guess is that it was a bomb factory. Followers of the religion of peace practising their religion in the all too… https://t.co/dAXsAijzB7
+Word weight = 0.48892815359287467
+Sentiment = 0.8540330870327919
+Topic model = 0.46035677428862554
+Evaluation EQ = 1.854033087032792
+Evaluated as : negative
+===================================
+Tweet : Such cases prove who is interested to create relationship and who's not..! Some seculars may say hindus oppose marr… https://t.co/jx1yTZyx4z
+Word weight = 0.0
+Sentiment = 0.8537375975696666
+Topic model = 0.04579094795812676
+Evaluation EQ = 0.8537375975696666
+Evaluated as : neutral
+===================================
+Tweet : RT @oirdcomss: #InternationalCommunity must deal with #Daesh Foreign Terrorist Fighters captured by the Syrian Democratic Forces as quickly…
+Word weight = 0.5183941978856859
+Sentiment = 0.4576575394036224
+Topic model = 0.8115765604488047
+Evaluation EQ = 1.4576575394036224
+Evaluated as : positive
+===================================
+Tweet : I wish I knew how to take bomb ass selfies &amp; shit I swear I don’t look this weak in person at least I don’t think so 🤦🏾‍♀️
+Word weight = 0.0
+Sentiment = 0.8655508071717692
+Topic model = 0.03258145363408056
+Evaluation EQ = 0.8655508071717692
+Evaluated as : neutral
+===================================
+Tweet : Islam and terrorism book. seems interesting via #ALHNews https://t.co/ErJUX0AxQE
+Word weight = 0.601027282675982
+Sentiment = 0.7162282854063686
+Topic model = 0.5039821776662885
+Evaluation EQ = 1.7162282854063686
+Evaluated as : negative
+===================================
+Tweet : Egyptian Saudi businessmen gear up for Iraq Syria Libya reconstruction https://t.co/rznhgT2oNv #iraq #news
+Word weight = 0.5358258230642424
+Sentiment = 0.0923372925458189
+Topic model = 0.49039264828743095
+Evaluation EQ = 1.0923372925458188
+Evaluated as : positive
+===================================
+Tweet : #TerrorismTracker #Finance #Business #Terrorism https://t.co/ZeiRQcdWvX
+Word weight = 0.5294034229871973
+Sentiment = 0.8390391999362938
+Topic model = 0.5280423280422281
+Evaluation EQ = 1.8390391999362938
+Evaluated as : negative
+===================================
+Tweet : .@DefenceHQ: Nearly 25000 Daesh fighters were killed in 2016 and the group now holds less than 10% of #Iraq-i territory #DefeatingDaesh
+Word weight = 0.666143650163455
+Sentiment = 0.9151226774406035
+Topic model = 0.8565236620963458
+Evaluation EQ = 1.9151226774406034
+Evaluated as : negative
+===================================
+Tweet : RT @HISTORY: On #ThisDayinHistory 25 years ago a terrorist bomb exploded in the World Trade Center's parking garage leaving a crater 60 f…
+Word weight = 0.36258305318879
+Sentiment = 0.7664484062307548
+Topic model = 0.21987577639753947
+Evaluation EQ = 0.7664484062307548
+Evaluated as : neutral
+===================================
+Tweet : @cumhuriyetgzt  Thousands of armed #ISIS passing Turkish border by bus to #azaz
+Word weight = 0.5550576083329594
+Sentiment = 0.9198822261865724
+Topic model = 0.5701921470341798
+Evaluation EQ = 1.9198822261865724
+Evaluated as : negative
+===================================
+Tweet : The moment that #Kurdish  freedom fighters removing #ISIS flag
+Word weight = 0.5745387627464447
+Sentiment = 0.9256760390696396
+Topic model = 0.5647786131995938
+Evaluation EQ = 1.9256760390696397
+Evaluated as : negative
+===================================
+Tweet : The #Daesh Threat to #Hamas by @tkarasik &amp; @GiorgioCafiero https://t.co/EgJMNR97g5 @LobeLog
+Word weight = 0.5025064795353147
+Sentiment = 0.8888402014691195
+Topic model = 0.8785535266737082
+Evaluation EQ = 1.8888402014691195
+Evaluated as : negative
+===================================
+Tweet : Here is not #Syria its #Kurdish town #silvan in #Turkey Bombed by #Turkish army &amp; more then 30 people were killed http://t.co/O38Uyqfdkr
+Word weight = 0.6197114115087314
+Sentiment = 0.9154837874576538
+Topic model = 0.880279646484645
+Evaluation EQ = 1.9154837874576538
+Evaluated as : negative
+===================================
+Tweet : https://t.co/1p3qYvLiOx via @youtube "daesh steeling and buying Iraq and Syria cultures to all world but can't sell… https://t.co/44GGp27AGA
+Word weight = 0.5773079976569786
+Sentiment = 0.09854496617378827
+Topic model = 0.4945009582780083
+Evaluation EQ = 1.0985449661737883
+Evaluated as : positive
+===================================
+Tweet : He wasn't a victim of terrorism.  He was a victim of Israel's grotesque vanity and perverse desire for a purist "Je… https://t.co/9MGWosvN8I
+Word weight = 0.5357497698602388
+Sentiment = 0.9195733285547113
+Topic model = 0.714362830152205
+Evaluation EQ = 1.9195733285547112
+Evaluated as : negative
+===================================
+Tweet : RT @OKnox: CENTCOM talks about shift in anti-ISIS coalition mission refers to "our enduring presence as invited guests in Iraq."
+Word weight = 0.38107753088292734
+Sentiment = 0.7937294851913678
+Topic model = 0.5017142857143696
+Evaluation EQ = 1.7937294851913679
+Evaluated as : negative
+===================================
+Tweet : The #UK helps protect women &amp; girls in #Iraq affected by #Daesh. We provide vital access to protection services as… https://t.co/xCJPnmsDqb
+Word weight = 0.4573156693341615
+Sentiment = 0.9128223276287591
+Topic model = 0.2944761904762393
+Evaluation EQ = 1.912822327628759
+Evaluated as : negative
+===================================
+Tweet : @Imperator_Rex3 @MarkWatson1967 Hey Mark...let us know how the ISIS fighters returning home turns out...if Trudeau… https://t.co/cWIyKZ1mig
+Word weight = 0.5176476916454824
+Sentiment = 0.8742116096672103
+Topic model = 0.2934335839598466
+Evaluation EQ = 1.8742116096672103
+Evaluated as : negative
+===================================
+Tweet : RT @F_Reinares: #IslamicState terrorists in #Libya getting plenty of #tramadol pills on the black market thanks to #Italian #Ndrangheta mob…
+Word weight = 0.46900030073406473
+Sentiment = 0.4978176046166619
+Topic model = 0.3502176493866304
+Evaluation EQ = 1.497817604616662
+Evaluated as : positive
+===================================
+Tweet : “Firstly I wish that #Syria will be stable again and that I can return to it. We had a very beautiful country that… https://t.co/jVFOaaNJYo
+Word weight = 0.5261714596987097
+Sentiment = 0.6859060289428253
+Topic model = 0.40828995565831
+Evaluation EQ = 1.6859060289428252
+Evaluated as : negative
+===================================
+Tweet : RT @CJTFOIR: Over 96% of territory once controlled by ISIS is now liberated in Iraq &amp; Syria https://t.co/XWJc2xkTpr
+Word weight = 0.5797728245399457
+Sentiment = 0.9218412845705224
+Topic model = 0.8978985926353098
+Evaluation EQ = 1.9218412845705224
+Evaluated as : negative
+===================================
+Tweet : #Iranian backed #Shia militia used #US weapons &amp; killed 35 #kurdish #Peshmerga fighters near #Kerkuk #KirkukCrisis… https://t.co/Ywu3jOlYqb
+Word weight = 0.49263003106673486
+Sentiment = 0.8651953206736915
+Topic model = 0.9223321461548646
+Evaluation EQ = 1.8651953206736915
+Evaluated as : negative
+===================================
+Tweet : UK is supporting families like Abou affected by #Daesh through our partner @UNICEFIraq  #DefeatingDaesh #ISIS #ISIL https://t.co/SzkFg2xuvk
+Word weight = 0.5531067009805729
+Sentiment = 0.8288993430042562
+Topic model = 0.6734188412206445
+Evaluation EQ = 1.8288993430042562
+Evaluated as : negative
+===================================
+Tweet : Christian Jihad? Why We Should Worry About Right-Wing Terror Attacks Like Norway's in the US | Alternet https://t.co/aqrOPCXuhf
+Word weight = 0.5716644805913497
+Sentiment = 0.09581708674075601
+Topic model = 0.5930492898913198
+Evaluation EQ = 1.095817086740756
+Evaluated as : positive
+===================================
+Tweet : ISIS drones are attacking U.S. troops and disrupting airstrikes in Raqqa officials say #ToHellWithISIS #StopTerror  https://t.co/4vCu75v2kr
+Word weight = 0.4483559081056282
+Sentiment = 0.909800212333721
+Topic model = 0.909088510750567
+Evaluation EQ = 1.909800212333721
+Evaluated as : negative
+===================================
+Tweet : More Islamic State jihadis now in UK than Britons in Syria fighting the Islamic State https://t.co/HckDoi1lHT
+Word weight = 0.6880610509639179
+Sentiment = 0.5
+Topic model = 0.8423706324634413
+Evaluation EQ = 1.5
+Evaluated as : positive
+===================================
+Tweet : Somalia: Suicide attack near Foreign Ministry in Mogadishu http://t.co/RCHixB27
+Word weight = 0.5365426122907844
+Sentiment = 0.8848987829933868
+Topic model = 0.4997493734334986
+Evaluation EQ = 1.8848987829933868
+Evaluated as : negative
+===================================
+Tweet : #BREAKING VIDEO SHOWS :#Turkish shelling kills six members of #Kurdish force in #Afrin #Syria many injured  #ypg https://t.co/lNWyMIR4yI
+Word weight = 0.5437836713898508
+Sentiment = 0.8350440954968751
+Topic model = 0.6189168573608769
+Evaluation EQ = 1.8350440954968752
+Evaluated as : negative
+===================================
+Tweet : RT @GissiSim: When is the US going to speak out against Turkey threatening its soldiers?
+Word weight = 0.549629026479366
+Sentiment = 0.7796890970969497
+Topic model = 0.7233082706765769
+Evaluation EQ = 1.7796890970969497
+Evaluated as : negative
+===================================
+Tweet : Remember being a Non-Muslim in an Islamic state is a crime punishable with life. 
+Word weight = 0.6376195072674873
+Sentiment = 0.12278607713302253
+Topic model = 0.6674352548035913
+Evaluation EQ = 1.1227860771330225
+Evaluated as : positive
+===================================
+Tweet : Our data shows that there have been 45 terrorist attacks in #Israel &amp; #Palestine in October compared with 25 between January and September.
+Word weight = 0.5347370661780777
+Sentiment = 0.9080427148357592
+Topic model = 0.41969208736129926
+Evaluation EQ = 1.908042714835759
+Evaluated as : negative
+===================================
+Tweet : Sultan Al Qassemi: Taking a 'Warrior’s Break' #Iraq #art #DiaAzzawi https://t.co/eUrVjjDFEP
+Word weight = 0.2665658610168995
+Sentiment = 0.8065946124621912
+Topic model = 0.16791979949871014
+Evaluation EQ = 0.8065946124621912
+Evaluated as : neutral
+===================================
+Tweet : Thomas Jefferson’s Quran: How Islam Shaped the Founders https://t.co/UiiETfynys via @thedailybeast
+Word weight = 0.48518879993773245
+Sentiment = 0.8672309893874646
+Topic model = 0.3688066319644614
+Evaluation EQ = 1.8672309893874646
+Evaluated as : negative
+===================================
+Tweet : @RT_com jihadists used chemical weapon killed many #Kurds In #syria  full vid video  https://t.co/Wj2xZv3UIw  #ISIS https://t.co/iVCMupbbqx
+Word weight = 0.5947973312112504
+Sentiment = 0.9184139107945
+Topic model = 0.7991294024535177
+Evaluation EQ = 1.9184139107945
+Evaluated as : negative
+===================================
+Tweet : Trump asked why 'pretty Korean lady' who briefed him on hostages wasn't negotiating with North Korea: Report… https://t.co/zLRumH4zVL
+Word weight = 0.31684002399996025
+Sentiment = 0.9324604742159177
+Topic model = 0.20897896916205638
+Evaluation EQ = 0.9324604742159177
+Evaluated as : neutral
+===================================
+Tweet : #Erdogan backed al-#nusra fighter (Jabhat Fatah al-Sham ) in #Syria convincing his two 7 &amp; 8 yo daughters to take p… https://t.co/GtZx724Kiu
+Word weight = 0.38231205079803376
+Sentiment = 0.9089525769928032
+Topic model = 0.5601670843775393
+Evaluation EQ = 1.908952576992803
+Evaluated as : negative
+===================================
+Tweet : Turkey wants to stop #Kurds liberating northern #Syria from #ISIS #DAESH #ISIL #ISLAMICSTATE #YPG #YPJ #PKK #KURDISH https://t.co/UJVVY23yH8
+Word weight = 0.6715313207268527
+Sentiment = 0.8675338456244415
+Topic model = 0.9492644655116865
+Evaluation EQ = 1.8675338456244415
+Evaluated as : negative
+===================================
+Tweet : #OpISIS : Sex Slavery ISIS &amp; Illegal Arms Trade: Libya Plunged Into Failed State After US invasion. #OpIceISIS... https://t.co/Q3PCKCyDsU
+Word weight = 0.4962513503655671
+Sentiment = 0.4563426721565088
+Topic model = 0.428527841342546
+Evaluation EQ = 1.456342672156509
+Evaluated as : positive
+===================================
+Tweet : #UKaid has provided life-saving aid to 100000s of people in #Iraq affected by #Daesh – inc. food water &amp; shelter https://t.co/xUfHsbxKt9
+Word weight = 0.49005527896594125
+Sentiment = 0.9130372276193387
+Topic model = 0.27435981257495057
+Evaluation EQ = 1.9130372276193386
+Evaluated as : negative
+===================================
+Tweet : BLF is dangerous. They behave like they can wake up and become terrorists. I don't trust them
+Word weight = 0.36801992742271317
+Sentiment = 0.49781760461666147
+Topic model = 0.28694463431299183
+Evaluation EQ = 1.4978176046166616
+Evaluated as : positive
+===================================

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="688.0" prefWidth="778.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Models.Evaluation.visualization.Charts._PlotSVM">
+   <children>
+      <StackPane fx:id="stackpane" layoutX="43.0" layoutY="34.0" prefHeight="645.0" prefWidth="700.0" AnchorPane.bottomAnchor="2.0" AnchorPane.leftAnchor="39.0" AnchorPane.rightAnchor="39.0" />
+      <HBox alignment="CENTER_LEFT" layoutX="160.0" layoutY="446.0" prefHeight="25.0" prefWidth="463.0" spacing="10.0" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="160.0" AnchorPane.rightAnchor="155.0">
+         <children>
+            <Label fx:id="c1" maxHeight="10.0" maxWidth="12.0" minHeight="10.0" minWidth="12.0" prefHeight="10.0" prefWidth="12.0" style="-fx-background-color: yellow;" text="   " HBox.hgrow="NEVER">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </Label>
+            <Label fx:id="t1" text="Negative">
+               <font>
+                  <Font name="Microsoft Sans Serif" size="18.0" />
+               </font>
+               <padding>
+                  <Insets right="10.0" />
+               </padding>
+            </Label>
+            <Label fx:id="c2" maxHeight="10.0" maxWidth="12.0" minHeight="10.0" minWidth="12.0" prefHeight="10.0" prefWidth="12.0" style="-fx-background-color: yellow;" text="   ">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </Label>
+            <Label fx:id="t2" layoutX="207.0" layoutY="14.0" text="Positive">
+               <font>
+                  <Font name="Microsoft Sans Serif" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="c3" maxHeight="10.0" maxWidth="12.0" minHeight="10.0" minWidth="12.0" prefHeight="10.0" prefWidth="12.0" style="-fx-background-color: yellow;" text="   ">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </Label>
+            <Label fx:id="t3" layoutX="160.0" layoutY="14.0" text="Neutral">
+               <font>
+                  <Font name="Microsoft Sans Serif" size="18.0" />
+               </font>
+            </Label>
+         </children>
+         <padding>
+            <Insets left="75.0" />
+         </padding>
+      </HBox>
+      <Separator layoutX="197.0" layoutY="570.0" prefHeight="2.0" prefWidth="385.0" AnchorPane.bottomAnchor="53.0" />
+   </children>
+</AnchorPane>

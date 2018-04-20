@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="test_resources"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/twitter4j-4.0.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson-2.2.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/stanford-corenlp-3.8.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ajt-2.11"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.39-bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/common-lang3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-collections4-4.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-csv-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/prefuse"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/libsvm-java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mallet-2.0.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/plot"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSAT-0.0.9"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/ajt-2.11.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/common-lang3.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/commons-csv-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/JSAT-0.0.9.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/jsc.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/libsvm-java.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/mallet-2.0.8.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/Mallet-LibSVM.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/prefuse.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/stanford-corenlp-3.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/smile-core-1.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/smile-data-1.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/smile-graph-1.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/smile-math-1.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/smile-plot-1.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/plot/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/lib/twitter4j-async-4.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/lib/twitter4j-examples-4.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/lib/twitter4j-media-support-4.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/FCIH/Graduation Project/The Journey/Full Practical Code/lib/lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

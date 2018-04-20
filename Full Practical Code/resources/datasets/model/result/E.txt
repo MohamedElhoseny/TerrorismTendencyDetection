@@ -1,0 +1,5 @@
+Confusion Matrix, row=true, column=predicted  accuracy=0.7745098039215687 most-frequent-tag baseline=0.4411764705882353
+       label   0   1   2  |total
+  0 negative   9  14   .  |23
+  1 positive   4  40   1  |45
+  2  neutral   .   4  30  |34

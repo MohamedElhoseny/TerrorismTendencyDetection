@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="373.0" prefWidth="502.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Models.Evaluation.visualization.Charts._2dConfusionMatrix">
+   <AnchorPane layoutX="14.0" layoutY="83.0" prefHeight="275.0" prefWidth="479.0" style="-fx-border-color: black;" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="83.0">
+      <GridPane alignment="CENTER" gridLinesVisible="true" layoutX="130.0" layoutY="82.0" prefHeight="152.0" prefWidth="235.0" style="-fx-border-color: gray;" AnchorPane.leftAnchor="129.0">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <Label fx:id="r1" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="159.0" text="0" textFill="#44d34d">
+            <font>
+               <Font name="Arial Bold" size="16.0" />
+            </font>
+            <GridPane.margin>
+               <Insets />
+            </GridPane.margin>
+         </Label>
+         <Label fx:id="r2" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="159.0" text="0" textFill="#ee1919" GridPane.columnIndex="1">
+            <font>
+               <Font name="Arial Bold" size="16.0" />
+            </font>
+         </Label>
+         <Label fx:id="r3" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="159.0" text="0" textFill="#ee1919" GridPane.rowIndex="1">
+            <font>
+               <Font name="Arial Bold" size="16.0" />
+            </font>
+         </Label>
+         <Label fx:id="r4" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="159.0" text="0" textFill="#44d34d" GridPane.columnIndex="1" GridPane.rowIndex="1">
+            <font>
+               <Font name="Arial Bold" size="16.0" />
+            </font>
+         </Label>
+      </GridPane>
+      <Separator layoutX="176.0" layoutY="39.0" prefHeight="6.0" prefWidth="152.0" AnchorPane.leftAnchor="176.0" AnchorPane.topAnchor="39.0" />
+      <Label layoutX="217.0" layoutY="13.0" text="Predicted" AnchorPane.leftAnchor="217.0" AnchorPane.topAnchor="13.0">
+         <font>
+            <Font name="Microsoft Yi Baiti" size="23.0" />
+         </font>
+      </Label>
+      <VBox layoutX="64.0" layoutY="103.0" prefHeight="164.0" prefWidth="73.0" spacing="44.0" AnchorPane.leftAnchor="63.0">
+         <padding>
+            <Insets bottom="5.0" top="5.0" />
+         </padding>
+         <Label text="Negative">
+            <font>
+               <Font name="System Bold Italic" size="14.0" />
+            </font>
+         </Label>
+         <Label layoutX="10.0" layoutY="10.0" text="Positive">
+            <font>
+               <Font name="System Bold Italic" size="14.0" />
+            </font>
+            <VBox.margin>
+               <Insets top="10.0" />
+            </VBox.margin>
+         </Label>
+      </VBox>
+      <Separator layoutX="51.0" layoutY="114.0" orientation="VERTICAL" prefHeight="65.0" prefWidth="3.0" AnchorPane.leftAnchor="50.0" />
+      <Label layoutX="6.0" layoutY="129.0" prefHeight="27.0" prefWidth="52.0" rotate="-90.0" text="Actual" AnchorPane.leftAnchor="5.0">
+         <font>
+            <Font name="Microsoft Yi Baiti" size="23.0" />
+         </font>
+      </Label>
+      <VBox layoutX="367.0" layoutY="45.0" prefHeight="230.0" prefWidth="104.0" spacing="20.0" AnchorPane.leftAnchor="366.0" AnchorPane.topAnchor="44.0">
+         <Label alignment="CENTER" prefHeight="34.0" prefWidth="88.0" text="Total">
+            <font>
+               <Font name="System Italic" size="23.0" />
+            </font>
+         </Label>
+         <Label fx:id="t1" alignment="CENTER" prefHeight="39.0" prefWidth="106.0" text="0">
+            <font>
+               <Font name="System Italic" size="16.0" />
+            </font>
+         </Label>
+         <Label fx:id="t2" alignment="CENTER" prefHeight="65.0" prefWidth="106.0" text="0">
+            <font>
+               <Font name="System Italic" size="16.0" />
+            </font>
+         </Label>
+      </VBox>
+      <HBox alignment="BOTTOM_CENTER" layoutX="83.0" layoutY="52.0" prefHeight="20.0" prefWidth="337.0" spacing="66.0">
+         <Label text="Negative">
+            <font>
+               <Font name="System Bold Italic" size="14.0" />
+            </font>
+            <HBox.margin>
+               <Insets />
+            </HBox.margin>
+         </Label>
+         <Label layoutX="10.0" layoutY="10.0" text="Positive">
+            <font>
+               <Font name="System Bold Italic" size="14.0" />
+            </font>
+         </Label>
+      </HBox>
+   </AnchorPane>
+   <Label layoutX="175.0" layoutY="14.0" text="Confusion matrix " AnchorPane.leftAnchor="175.0" AnchorPane.topAnchor="14.0">
+      <font>
+         <Font name="Verdana" size="17.0" />
+      </font>
+   </Label>
+   <Label fx:id="classifiername" alignment="CENTER" layoutX="134.0" layoutY="43.0" prefHeight="26.0" prefWidth="397.0" text="Classifier Name" textFill="#969c9e" AnchorPane.leftAnchor="134.0" AnchorPane.rightAnchor="140.0" AnchorPane.topAnchor="43.0">
+      <font>
+         <Font name="System Bold Italic" size="17.0" />
+      </font>
+   </Label>
+</AnchorPane>

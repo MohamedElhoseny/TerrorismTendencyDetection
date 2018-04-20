@@ -1,0 +1,10 @@
+ They are notcommand-and-control hierarchies like the Defense Department
+ In terms ofthe Internet, hubs are highly trafficked websites with connections to many other sites, such as Google
+com, Yahoo.com, and MSN.com. Users visitthem often in order to connect to other sites, and a great many other sites connect to them as well
+ In a social or professional network, hubs arepeople that are widely known, who set trends or whose work influences a great many others
+Decentralization is another attribute
+ Because of decentralization, anetwork can quickly collect and process information from a myriad of sources located in different places and connected only by a common interest or affinity
+ If a node disappears, others simply move their connections.Networks can remain remarkably immune to attack
+ Randomlydestroying its nodes will not cause it to collapse, and the loss of a single hub will not bring down the whole network
+ Therefore, because it has noreal single leader, it can function even after suffering severe losses
+Al Qaeda is just such a network
