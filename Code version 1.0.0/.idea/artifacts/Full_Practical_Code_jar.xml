@@ -1,0 +1,80 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Full Practical Code:jar">
+    <output-path>$USER_HOME$/Desktop/test</output-path>
+    <root id="archive" name="Full Practical Code.jar">
+      <element id="module-output" name="Full Practical Code" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-csv-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-data-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.slf4j.slf4j-simple-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/io.get-coursier.coursier-cache_2.12-1.0.0-RC10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.ammonite-ops_2.12-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.ammonite_2.12.4-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.swinglabs.swing-worker-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-plot-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.core-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.upickle_2.12-0.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/net.sourceforge.f2j.arpack_combined_all-0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.scopt.scopt_2.12-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-shell-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-scala-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-demo-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.netlib-native_ref-linux-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-netlib-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.scala-lang.scala-compiler-2.12.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.netlib-native_system-linux-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-core-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.scalaz.scalaz-concurrent_2.12-7.2.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.ammonite-compiler_2.12.4-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.ammonite-terminal_2.12-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.native_system-java-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.javaparser.javaparser-core-3.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.netlib-native_system-win-i686-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-benchmark-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.jniloader-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.scalaj.scalaj-http_2.12-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.haifengl.smile-math-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/xpp3.xpp3_min-1.1.4c.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.netlib-native_system-linux-i686-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.thoughtworks.xstream.xstream-1.4.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.ammonite-repl_2.12.4-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.native_ref-java-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.netlib-native_system-linux-armhf-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.fastparse_2.12-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.scala-lang.scala-reflect-2.12.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/xmlpull.xmlpull-1.1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.slf4j.slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.scala-lang.modules.scala-xml_2.12-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.ammonite-runtime_2.12-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.derive_2.12-0.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.pprint_2.12-0.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.sourcecode_2.12-0.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.ammonite-util_2.12-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.netlib-native_system-win-x86_64-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.fansi_2.12-0.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.github.fommil.netlib.netlib-native_ref-linux-i686-1.1-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.scala-lang.scala-library-2.12.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/io.get-coursier.coursier_2.12-1.0.0-RC10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/jline.jline-2.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.javassist.javassist-3.21.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.jhlabs.filters-2.0.235.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/com.lihaoyi.scalaparse_2.12-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/smile-1.5.1/lib/org.swinglabs.swingx-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Level 1/practical/twitter4j-4.0.4/lib/twitter4j-async-4.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Level 1/practical/twitter4j-4.0.4/lib/twitter4j-core-4.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Level 1/practical/twitter4j-4.0.4/lib/twitter4j-media-support-4.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Level 1/practical/twitter4j-4.0.4/lib/twitter4j-stream-4.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/common-lang3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/libsvm-java.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mallet-deps.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Mallet-LibSVM.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.39-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/stanford-corenlp-3.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ajt-2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mallet-2.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/prefuse.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Level 1/practical/gson-2.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-collections4-4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

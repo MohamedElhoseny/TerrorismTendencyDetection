@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libsvm-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libsvm-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mallet-deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Mallet-LibSVM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

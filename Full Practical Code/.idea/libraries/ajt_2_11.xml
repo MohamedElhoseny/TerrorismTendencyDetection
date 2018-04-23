@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ajt-2.11">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/ajt-2.11.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
